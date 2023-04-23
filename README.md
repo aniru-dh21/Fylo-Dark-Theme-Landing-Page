@@ -3,14 +3,14 @@
 <div align="center">
 	
 [Live]()
-| [Solution]()
+| [Solution](https://github.com/aniru-dh21/Fylo-Dark-Theme-Landing-Page)
 | [Challenge](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd)
 
 Solution to the challenge by [frontendmentor.io](https://www.frontendmentor.io/)
 </div>
 
 <div align="center">
-    <img src="" alt="The Fylo dark theme landing page" width="450" height="300">
+    <img src="https://raw.githubusercontent.com/aniru-dh21/Fylo-Dark-Theme-Landing-Page/main/design/Preview.jpg" alt="The Fylo dark theme landing page" width="450" height="300">
 </div>
 
 
